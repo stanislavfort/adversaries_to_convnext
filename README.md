@@ -10,3 +10,5 @@ The [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) paper from Faceb
 
 An example of what you can get from the Colab is this:
 <img src="convnext_example_figure.png" ALIGN="center" height="100%" width="100%">
+
+I am using the https://github.com/leondgarse/keras_cv_attention_models repository that made the whole process of loading the pretrained model really easy.
